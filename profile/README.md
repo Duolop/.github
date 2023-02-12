@@ -6,6 +6,8 @@
 Duolop is a relationship app for two people in love. Explore the limitless bound of your relationship with our private chat, shared gallery, audio calls, video calls and much more.  
 
 
+All of your personal data including messages, images, videos and calls are encrypted and secured from outside access.
+
 Visit us:  <https://www.duolop.com>
 
 
@@ -17,13 +19,21 @@ Visit us:  <https://www.duolop.com>
 * ![image](https://user-images.githubusercontent.com/6529405/218339435-6702c43f-1daa-4edd-b515-5dbdce07b1bf.png) <https://www.youtube.com/@duolop/>
 
 
+### Get us on: 
+
+#### Play Store: 
+<https://play.google.com/store/apps/details?id=com.duolop.eros/>  
+
+#### App Store: 
+
+Coming soon
 
 
 ![image](https://user-images.githubusercontent.com/6529405/218339721-e8212466-bd55-4efe-86b2-ae4a4a5c8a4c.png)
 
-All of your personal data including messages, images, videos and calls are encrypted and secured from outside access.
 
-Features:
+
+## Features:
 
 ### Private Chat
 
