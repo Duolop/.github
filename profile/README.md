@@ -3,7 +3,9 @@
 # ![image](https://user-images.githubusercontent.com/6529405/218339256-83b0826f-dd54-47fe-b315-185294a375ae.png)
 
 
-Duolop is a relationship app for two people in love. Explore the limitless bound of your relationship with our private chat, shared gallery, audio calls, video calls and much more.
+Duolop is a relationship app for two people in love. Explore the limitless bound of your relationship with our private chat, shared gallery, audio calls, video calls and much more.  
+
+
 Visit us:  <https://www.duolop.com>
 
 
