@@ -15,14 +15,14 @@ Visit us:  <https://www.duolop.com>
    <https://www.instagram.com/duolop_official/>
 * ![image](https://user-images.githubusercontent.com/6529405/218339358-e1835af3-e049-475a-99c1-45bd78c2777f.png) <https://in.linkedin.com/company/duolop>
 * ![image](https://user-images.githubusercontent.com/6529405/218339233-603fb1f3-5106-4813-80c8-15aa16af75f3.png) <https://twitter.com/duolop>
-* ![image](https://user-images.githubusercontent.com/6529405/218339491-289ee23a-cd7f-499c-92e6-987426c0bfe8.png)<https://www.facebook.com/duolopofficial/>
-* ![image](https://user-images.githubusercontent.com/6529405/218339435-6702c43f-1daa-4edd-b515-5dbdce07b1bf.png) <https://www.youtube.com/@duolop/>
+* ![image](https://user-images.githubusercontent.com/6529405/218339491-289ee23a-cd7f-499c-92e6-987426c0bfe8.png)<https://www.facebook.com/duolopofficial>
+* ![image](https://user-images.githubusercontent.com/6529405/218339435-6702c43f-1daa-4edd-b515-5dbdce07b1bf.png) <https://www.youtube.com/@duolop>
 
 
 ### Get us on: 
 
 #### Play Store: 
-<https://play.google.com/store/apps/details?id=com.duolop.eros/>  
+<https://play.google.com/store/apps/details?id=com.duolop.eros>  
 
 #### App Store: 
 
